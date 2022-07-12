@@ -2,6 +2,7 @@
   "name": "show_big_table",
   "version": "0.1.0",
   "private": true,
+  "home-page": "https://kusakinvova.github.io/react-show-large-table/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
