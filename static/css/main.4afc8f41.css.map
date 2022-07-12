@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.4afc8f41.css","mappings":"AAAA,MACE,wBAAyB,CACzB,UACF,CAEA,GAGE,wBAA2B,CAF3B,qBAAsB,CACtB,YAEF","sources":["App.css"],"sourcesContent":["table {\n  border-collapse: collapse;\n  width: 100%;\n}\n\ntd {\n  box-sizing: border-box;\n  padding: 10px;\n  border: 1px solid lightgray;\n}"],"names":[],"sourceRoot":""}
